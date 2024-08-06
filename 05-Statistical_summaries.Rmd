@@ -8,11 +8,11 @@ library(ggplot2)
   - Use ggplot2 to plot possible uncertainty in your data
   - Determine which geometric object (geom) best presents your type of data
 
-## Defintions (in this Chapter)
+## Definitions (in this Chapter)
 
 > **discrete value**: a finite number, something that is countable with beginning and end (input user definition welcomed)
 
-> **continuous value**: infinite number, something that never ends. Infinity is continous. (input user definition welcomed)
+> **continuous value**: infinite number, something that never ends. Infinity is continuous. (input user definition welcomed)
 
 > **grobs**: graphical object
 
